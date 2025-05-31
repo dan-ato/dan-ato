@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dan
-**IT Professional | Aspiring (Electrical) Engineer | Hyperactive Nerd**
+**IT Professional | Electical Engineering Student | Technology Enthusiast**
 
 I explore the edges between **computer systems, energy solutions, and independent technology infrastructure**.  
 I enjoy researching IoT applications, solar system design, DIY networks, and the advancements in AI modeling.

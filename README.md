@@ -1,6 +1,6 @@
 # Hi! My name is Daniel. 👋
 ## My friends call me Dan. 
-### Co-workers typically ask, but call me Danny anyways.
+### Co-workers typically ask what I prefer, but call me Danny anyways.
 ---
 # About me? I'm an...
 ## **IT Professional | Electrical Engineering Student | Technology & Web Apps Enthusiast**
@@ -58,16 +58,16 @@ A precision tool that estimates paychecks using historical deductions. Learns ov
 
 ### 3️⃣ Additional Projects (coming soon)
 
-* 🖥️ **Tech Microserver DIY** – Mini-PC turned private cloud for home automation
+* 🖥️ **Tech Microserver DIY** – Mini-PC suite turned private cloud and project space
 * ☀️ **Solar Mapping Project** – Off-grid hybrid energy system design
-* 🧬 **Digital Consciousness Map** – Conceptual framework connecting AI and spirituality
+* 🧬 **Knowledge Base Development** – Sovereignty-focused, open source, local-first database development
 * ⚡ **Electrical Engineering Tools** – Scripts and simulations for circuits and renewable energy
 
 ---
 
 ## 🗝️ Philosophy
 
-I believe in **clear minds, open systems, and principle-aligned engineering.**
+I believe in **clear-minded pursuit, open systems, and principle-aligned engineering.**
 Every project I work on balances **practical implementation** with **conceptual insight**, showing both skill and depth.
 
 ---

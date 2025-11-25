@@ -26,7 +26,7 @@ This space now includes **fully functional web apps** and technical projects dem
 ### 1️⃣ Broke-O-Meter – Personal Finance Web App
 
 **Tech Stack:** Python | Streamlit | Pandas | JSON (persistent storage)
-**Live Demo:** [Broke-O-Meter][(https://share.streamlit.io/<youruserna/broke-o-meter)](https://broke-o-meter.streamlit.app/)
+**Live Demo:** [Broke-O-Meter](https://broke-o-meter.streamlit.app/)
 **Repo:** [GitHub](https://github.com/<yourusername>/broke-o-meter)
 
 **Overview:**

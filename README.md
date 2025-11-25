@@ -1,4 +1,6 @@
-# 👋 Hi! My name is Daniel. My friends call me Dan. Co-workers typically call me Danny, even when I say Dan. 
+# 👋 Hi! My name is Daniel. 
+## My friends call me Dan. 
+### Co-workers typically call me Danny... even when I say Dan. 
 
 Anyway... About me:
 

@@ -1,10 +1,9 @@
-# 👋 Hi! My name is Daniel. 
+# Hi! My name is Daniel. 👋
 ## My friends call me Dan. 
-### Co-workers typically call me Danny... even when I say Dan. 
-
-Anyway... About me:
-
-**Career IT Professional | Electrical Engineering Student | Technology & Web Apps Enthusiast**
+### Co-workers typically ask, but call me Danny anyways
+---
+# About me?
+## **Career IT Professional | Electrical Engineering Student | Technology & Web Apps Enthusiast**
 
 I explore the edges between **computer systems, energy solutions, and independent technology infrastructure**.
 I enjoy researching IoT applications, solar system design, DIY networks, and advancements in AI modeling.

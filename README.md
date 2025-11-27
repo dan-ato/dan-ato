@@ -1,8 +1,7 @@
-# Hi! My name is Daniel. 👋
-## My friends call me Dan. 
-### Co-workers typically ask what I prefer, but call me Danny anyways.
+# Hi! My name is Daniel. 👋 My friends call me Dan. 
+### Co-workers typically ask me what I prefer, but call me Danny anyways.
 ---
-# About me? I'm an...
+# About me
 ## **IT Professional | Electrical Engineering Student | Technology & Web Apps Enthusiast**
 
 I explore the edges between **computer systems, energy solutions, and independent technology infrastructure**.
